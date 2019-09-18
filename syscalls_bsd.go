@@ -1,4 +1,4 @@
-// +build openbsd freebsd netbsd
+// +build openbsd freebsd netbsd solaris
 
 package water
 
